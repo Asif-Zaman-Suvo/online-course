@@ -55,7 +55,7 @@ var fakeData = [
      "creator":"Dr Mitchell Coask",
      "time":"89 total hours. 200 lectures. All Levels",
      "img":"https://i.ibb.co/jgKTSZb/Master-your-brain.jpg",
-     "price":67.90,
+     "price":67.95,
     
      "id":6,
    },

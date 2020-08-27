@@ -1,0 +1,45 @@
+.name{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+}
+
+.course-logo{
+    height: 200px;
+    width: 400px;
+    margin-top: 20px;
+    border-right: 5px solid lightgray;
+}
+
+.course-name{
+  margin-left: 30px;
+  margin-top: 30px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-size: 23px;
+
+}
+
+.info p {
+    margin-left: 30px;
+}
+
+.enroll{
+    margin-left: 30px;
+    margin-bottom: 20px;
+    cursor:pointer;
+    background-color:seagreen;
+    color:white;
+    border: 1px solid seagreen;
+    border-radius: 5px;
+    padding: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+
+.enroll:hover{
+    background-color:darkgoldenrod;
+    border: 1px solid darkgoldenrod;
+
+}
+
+
+

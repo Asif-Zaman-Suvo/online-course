@@ -1,9 +1,12 @@
 .header img{ 
-    height:130px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+
 }
 
 .header{
     text-align: center;
+    
 }
 
 .header nav{

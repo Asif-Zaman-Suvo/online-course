@@ -1,23 +1,8 @@
 .price{
-    color: red;
-    margin-left: 20px;
+    color:black;
+    margin-left: 40px;
 }
 
-#submit-button{
-    margin-left: 30px;
-    margin-bottom: 20px;
-    cursor:pointer;
-    background-color:seagreen;
-    color:white;
-    border: 1px solid seagreen;
-    border-radius: 5px;
-    padding: 10px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 20px;
-}
-
-#submit-button:hover{
-    background-color:darkgoldenrod;
-    border: 1px solid darkgoldenrod;
-
+.btn-success{
+    margin-left: 60px;
 }

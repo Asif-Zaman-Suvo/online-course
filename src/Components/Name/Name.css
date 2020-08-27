@@ -1,6 +1,7 @@
 .name{
     display: flex;
     border-bottom: 1px solid lightgray;
+    background:aquamarine;
 }
 
 .course-logo{

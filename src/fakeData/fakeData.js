@@ -35,7 +35,7 @@ var fakeData = [
      "creator":"Creative IT Institute",
      "time":"11.5 total hours. 87 lectures. Beginner",
      "img":"https://i.ibb.co/Nnx7Hrb/photoshop.jpg",
-     "price":20.50,
+     "price":20.54,
      
      "id":4,
    },
@@ -85,7 +85,7 @@ var fakeData = [
      "creator":"Noman Ahmed",
      "time":"80 total hours. 156 lectures.",
      "img":"https://i.ibb.co/xXPzLsD/Graphic-Design.png",
-     "price":30.00,
+     "price":30.45,
      
      "id":9,
    },
@@ -125,7 +125,7 @@ var fakeData = [
      "creator":"UDEMY",
      "time":"100 total hours. 340 lectures. All Levels",
      "img":"https://i.ibb.co/tD4DJCS/Complete-C-Unity-Developer-3-D-Learn-to-Code-Making-Games.jpg",
-     "price":120.90,
+     "price":120.95,
      
      "id":13,
    },

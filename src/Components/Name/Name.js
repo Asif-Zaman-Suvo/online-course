@@ -20,10 +20,10 @@ const Name = (props) => {
             <h4 className='course-name'>{name}</h4>
             
 
-            <p>Instructor:<b>{creator}</b></p>
-            <p>Course Duration:{time}</p>
+            <p>Instructor: <b>{creator}</b></p>
+            <p>Course Duration: {time}</p>
             <br/>
-            <p>Course Price:<b>{price}</b></p>
+            <p>Course Price: <b>{price}$</b></p>
 
              <br/>
              <button className="enroll"
